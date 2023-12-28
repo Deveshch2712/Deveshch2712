@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Devesh Chandra</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-- 🔭 I’m currently working on **Open Source Projects**
+- 🔭 I’m currently working on **Open Source Projects**.
 
-- 🌱 I’m currently learning **Mern Stack**
+- 🌱 I’m currently learning **MERN Stack**.
 
 - 📫 How to reach me **deveshchandra@2712@gmail.com**
 
